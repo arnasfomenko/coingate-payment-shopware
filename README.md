@@ -22,7 +22,7 @@ Also note, that *Receive Currency* parameter in your module configuration window
 
 3. Click on **Cryptocurrency Payments via CoinGate**.
 
-4. Click on **Install** and **Activate**
+4. Click on **Install** and **Activate**.
 
 5. Enter your [API credentials](https://support.coingate.com/en/42/how-can-i-create-coingate-api-credentials) (*Auth Token*). Configure **Receive Currency**, select **Environment** and click **Save**.
 
