@@ -28,10 +28,11 @@ Also note, that *Receive Currency* parameter in your module configuration window
 
 6. In case you are unable to create an order in your Shopware store using our module, copy-paste the code snippet from below to your config.php file to allow the CoinGate plugin to display any exceptions if they occur.
 
-`  "front" => array(
+```  
+   "front" => array(
         "showException" => true
    ),
    "phpsettings" => array(
        'display_errors' => 1,
    ),
-`
+```
